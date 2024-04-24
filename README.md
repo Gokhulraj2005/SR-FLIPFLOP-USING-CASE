@@ -104,7 +104,7 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/Gokhulraj2005/SR-FLIPFLOP-USING-CASE/assets/138849253/2bc6fa5d-a36a-409f-82a1-675b8cd79036)
+![image](https://github.com/Gokhulraj2005/SR-FLIPFLOP-USING-CASE/assets/138849253/90ec70a2-2c1b-4b98-b0f5-d853536fa46c)
 
 
 
